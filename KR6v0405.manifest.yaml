@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0405/v1
 canonical_location: https://kanripo.org/bkk/KR6v0405/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 尚直編
   source:
@@ -18,13 +18,13 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0405_000.yaml, hash: 'sha256:6ecd371b26e59b24614b93c9f46a3b32aed24c3f0e4d2681a76792cdb221a700'}
-  - {seq: 1, filename: KR6v0405_001.yaml, hash: 'sha256:25dd3418ee2e7c61992aae4122c646fa22362e5c0ab5fdec4127fa6a7b9dbfbe'}
-  - {seq: 2, filename: KR6v0405_002.yaml, hash: 'sha256:b10b533b469ff0e6e3153ca1e1db10176829b1e29466e2c7f3c8f4eb0740c1df'}
+  - {seq: 0, filename: KR6v0405_000.yaml, hash: 'sha256:1720f1c6dd970fcb3deeb04b1647029ebc689891282332bf358e6f24ce7a4b34'}
+  - {seq: 1, filename: KR6v0405_001.yaml, hash: 'sha256:9aa8118a7767a28b5c86a8662e248807142f27e210d29f839d8016acfdd8b347'}
+  - {seq: 2, filename: KR6v0405_002.yaml, hash: 'sha256:45e61c16ced036059b1f1bc6ac2c42e00b889a21b90d3d4f2214b51a89a5e623'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0405_000.markers.yaml, hash: 'sha256:6ce7c90940496ebb369dc15253bc66cafb255c302c44b0b3cc21f6313f1e78b4'}
-  - {seq: 1, role: markers, filename: assets/KR6v0405_001.markers.yaml, hash: 'sha256:7711fea1c9f26ded6cf2ebb344407953e33c2e0cf7bb93d550a9ab1a8fd83357'}
-  - {seq: 2, role: markers, filename: assets/KR6v0405_002.markers.yaml, hash: 'sha256:dfb13a72f54c1a5863b7a6b8f0cfc23a20f808e40ac207a9f0d46d2e29f8fdc0'}
+  - {seq: 0, role: markers, filename: assets/KR6v0405_000.markers.yaml, hash: 'sha256:be23f16bfa0a6076494cf8b668e2c438df1cda83e3abd3110e618d123f0f32a3'}
+  - {seq: 1, role: markers, filename: assets/KR6v0405_001.markers.yaml, hash: 'sha256:345099646ff06639a019acfeb5120add9588448137519e099cf8588165f07efa'}
+  - {seq: 2, role: markers, filename: assets/KR6v0405_002.markers.yaml, hash: 'sha256:521f21b62a23943caefaf657ae881f3bd58c9bdda5dc09dcb2bc72b87b6c1df4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -66,4 +66,7 @@ table_of_contents:
   label: 尚直編卷下
   type: juan
   level: 1
-hash: sha256:c87448c47d600ffdea1065a415cde01497bfa27ec44e951d6c121d55ae003dd0
+hash: sha256:3ac9ee1a1d596da6c5833890b62c09651863e4a94c5e350f361dd4a5e2fc2f1a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
